@@ -37,6 +37,9 @@
 		"no-use-before-define": "off",
 		"@typescript-eslint/no-use-before-define": ["error"],
 		"indent": [2, "tab"],
+		"react/jsx-indent": "off",
+		"react/jsx-indent-props": "off",
+		"react/jsx-one-expression-per-line": "off",
 		"no-tabs": 0
 	}
 }
